@@ -33,3 +33,4 @@ The repository demonstrates different backup techniques, such as using mysqldump
 
 ##OUTPUT
 
+![Image](https://github.com/user-attachments/assets/7db4e8cc-8099-4f4b-9e0a-c7fa98166373)
